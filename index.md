@@ -1,6 +1,3 @@
----
-title: Welcome to my blog!
----
 # 👋 Hi, I'm Kutlwano
 
 Welcome to my digital space.
@@ -31,7 +28,7 @@ I believe in growing through doing. Every project I build is part of a bigger jo
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: [Kutlwano Motsemme](https://www.linkedin.com/in/kutlwano-motsemme-1b7596369/)
-- 📧 Email: your.email@example.com
+- 📧 Email: [motsemme31@gmail.com](mailto:motsemme31@gmail.com)
 - 🌐 Portfolio: (Coming Soon)
 
 ---
